@@ -53,8 +53,10 @@ Want to collaborate or see code?
 
 Contact
 - GitHub: @AbdulMaaji
-- Email: (add your email here)
-- LinkedIn/Twitter: (add links)
+- Email: abdulmaaji360@gmail.com
+- Twitter(X): @abdul_maaji_
+- Instagram: @__._4.1
+- LinkedIn: @
 
 ---
 
