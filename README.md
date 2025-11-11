@@ -27,15 +27,8 @@ Highlights — what I'm proud of
 
 ---
 
-Featured projects (examples to showcase on your profile)
-- Portfolio Hub — React + React Router + CSS Grid  
-  A responsive, animated portfolio showcasing projects, blog posts, and contact forms.
-- TaskFlow API — Django + DRF + PostgreSQL  
-  A REST API for task management with token authentication, pagination, and filters.
-- ShopFront — React (hooks) + Django backend  
-  Full‑stack e‑commerce demo with product listing, cart, and order endpoints.
+Featured projects 
 
-(Replace the names above with your actual project links to make them live on your profile.)
 
 ---
 
