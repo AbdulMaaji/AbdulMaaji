@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Modern Animated Header with Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=MUHAMMAD%20ADAMU%20ALIYU&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Computational%20Biologist&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=ABDULMUMINI%20MUHAMMAD%20BELLO&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 
   <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&height=70&lines=Building+bridges+between+code+and+life;Engineering+AI-driven+bio-solutions;Computational+biology+researcher;Full-stack+developer;Open-source+contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&height=70&lines=Building+bridges+between+code+and+life;Engineering+AI-driven+tech+solution;Computer+scientist+researcher;Full-stack+developer;Open-source+contributor" alt="Typing SVG" />
   </a>
   
   <!-- Subtle Divider -->
