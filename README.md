@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Modern Animated Header with Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=ABDULMUMINI%20MUHAMMAD%20BELLO&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Athelete%20&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=ABDULMUMINI%20MUHAMMAD%20BELLO&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 
   <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&height=70&lines=Building+bridges+between+code+and+life;Engineering+AI-driven+tech+solution;Computer+scientist+researcher;Full-stack+developer;Open-source+contributor;Althelete" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&height=70&lines=Connecting+code+to+real-world+impact;Engineering+AI-driven+tech+solution;Computer+scientist;Full-stack+developer;Open-source+contributor;Empowering+lives+through+code;Coding+solutions+that+matter" alt="Typing SVG" />
   </a>
   
   <!-- Subtle Divider -->
@@ -22,9 +22,6 @@
       <h2 align="left">👨🏻‍💻 About Me</h2>
       <p align="left">
         I am a passionate Full-Stack Developer with a keen interest in Artificial Intelligence. My journey in software development is driven by a desire to solve practical problems and create impactful, real-world applications. I thrive on turning complex challenges into elegant, automated solutions with a clean, intuitive user experience. My mission is to bridge the gap between powerful technology and everyday usability, creating tools that are not just functional, but a joy to use.
-      </p>
-      <p align="left">
-        Currently engineering solutions in health, education, and productivity while diving deep into AI, cloud systems, and scalable tech. I'm hardcore on open-source — I build, not just contribute. KDE power user, Linux-native, building tech that runs lean and clean.
       </p>
       <div align="left">
         <a href="https://linkedin.com/in/AbdulMaaji" target="_blank">
@@ -56,30 +53,21 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧬 BioSeq Analyzer</h3>
+      <h3 align="center">💫 LifeGuest AI</h3>
       <div align="center">
-        <a href="https://github.com/your-username/bioseq-analyzer" target="_blank">
+        <a href="https://github.com/AbdulMaaji/lifeguest" target="_blank">
           <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="BioSeq Analyzer">
         </a>
         <p align="center">
-          AI-powered biological sequence analysis tool for genomic research. Features machine learning algorithms for sequence classification, protein structure prediction, and genetic variant analysis.
+          LifeQuests is a gamified AI app that transforms your everyday life into a real-world RPG (role-playing game).
+Using Gemini, the app generates personalized daily quests based on your mood, energy level, goals, and time availability.
+
+Instead of boring to-do lists, LifeQuests gives you fun, surprising, micro-challenges that create a dopamine loop:
+
+Trigger → Action → Reward
         </p>
         <p align="center">
-          <strong>Tech Stack:</strong> Python, TensorFlow, BioPython, React, Node.js
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏥 HealthTech Platform</h3>
-      <div align="center">
-        <a href="https://github.com/your-username/healthtech-platform" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="HealthTech Platform">
-        </a>
-        <p align="center">
-          Full-stack health management platform with AI-driven diagnostic assistance, patient monitoring, and telemedicine capabilities for improved healthcare delivery.
-        </p>
-        <p align="center">
-          <strong>Tech Stack:</strong> React Native, Next.js, Supabase, OpenAI API
+          <strong>Tech Stack:</strong> HTML, CSS, TailwindCSS, JavaScript, React, Gemini API
         </p>
       </div>
     </td>
@@ -97,7 +85,7 @@
 <!-- Holopin Badges -->
 <p align="center">
   <a href="https://holopin.io/@adams404" target="_blank">
-    <img src="https://holopin.me/adams404" alt="An image of @adams404's Holopin badges, which is a link to view their full Holopin profile" />
+    <img src="https://holopin.me/AbdulMaaji" alt="An image of @AbdulMaaji's Holopin badges, which is a link to view their full Holopin profile" />
   </a>
 </p>
 
@@ -114,12 +102,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adams-404&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulMaaji&theme=tokyonight" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adams-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&icon_color=7209b7&text_color=FFFFFF&ring_color=00d4aa" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adams-404&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4aa&fire=7209b7&currStreakLabel=00d4aa" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulMaaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&icon_color=7209b7&text_color=FFFFFF&ring_color=00d4aa" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMaaji&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4aa&fire=7209b7&currStreakLabel=00d4aa" width="49%" />
 </div>
 
 <!-- Tech Stack with Modern Design -->
@@ -228,10 +216,6 @@
   <br>BLAST
 </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/biopython/biopython/master/Doc/images/biopython_logo_m.png" width="65" height="65" />
-      <br>Biopython
-    </td>
-      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="65" height="65" />
         <br>R
       </td>
@@ -256,13 +240,13 @@
   <table>
     <tr>
       <td width="33%" align="center">
-        <h3>🧬 Computational Biology</h3>
+        <h3>⚙ Software Engineering</h3>
         <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" alt="DNA">
         <p>
-          • Genomic sequence analysis<br>
-          • Protein structure prediction<br>
-          • Bioinformatics algorithms<br>
-          • Synthetic biology design
+          • Software architecture and design<br>
+          • Agile development practices<br>
+          • Version control with git/github<br>
+          • Testing, debugging and deployment<br>
         </p>
       </td>
       <td width="33%" align="center">
@@ -272,7 +256,7 @@
           • Machine learning models<br>
           • Deep learning frameworks<br>
           • Computer vision<br>
-          • Natural language processing
+          • Natural language processing<br>
         </p>
       </td>
       <td width="33%" align="center">
@@ -281,8 +265,8 @@
         <p>
           • AWS cloud architecture<br>
           • Docker containerization<br>
-          • CI/CD pipelines<br>
-          • Scalable system design
+          • CI/CD pipelines (e.g. Github Actions)<br>
+          • Infrastructure as code (Terraform)<br>
         </p>
       </td>
     </tr>
@@ -299,7 +283,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adams-404&bg_color=1a1b27&color=00d4aa&line=7209b7&point=FFFFFF&area=true&area_color=7209b7&hide_border=true&radius=16" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMaaji&bg_color=1a1b27&color=00d4aa&line=7209b7&point=FFFFFF&area=true&area_color=7209b7&hide_border=true&radius=16" width="95%" alt="Activity Graph">
   
   <br>
   <!-- Animated Snake Contribution -->
@@ -333,7 +317,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adams-404&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15" width="95%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulMaaji&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15" width="95%" alt="Trophy" />
 </div>
 
   
@@ -341,7 +325,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Adams-404&style=for-the-badge&color=00d4aa" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulMaaji&style=for-the-badge&color=00d4aa" alt="Profile Views" />
   <br><br>
 
 
@@ -355,7 +339,7 @@
   
   <h3>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    "Building bridges between code and life. Blueprinting the future of intelligence."
+    "Connectiong code to real-world impact. Translating ideas into digital reality."
   </h3>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%"/>
