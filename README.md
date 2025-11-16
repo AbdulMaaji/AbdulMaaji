@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Modern Animated Header with Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=ABDULMUMINI%20MUHAMMAD%20BELLO&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=ABDULMUMINI%20MUHAMMAD%20BELLO&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Athelete%20&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 
   <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&height=70&lines=Building+bridges+between+code+and+life;Engineering+AI-driven+tech+solution;Computer+scientist+researcher;Full-stack+developer;Open-source+contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&height=70&lines=Building+bridges+between+code+and+life;Engineering+AI-driven+tech+solution;Computer+scientist+researcher;Full-stack+developer;Open-source+contributor;Althelete" alt="Typing SVG" />
   </a>
   
   <!-- Subtle Divider -->
@@ -15,25 +15,25 @@
 <table>
   <tr>
    <td width="45%" align="center">
-  <img src="https://llrmbyafcffporpjtbka.supabase.co/storage/v1/object/sign/team/Me.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lN2M5ZWEwNS1hZDNhLTQwYjgtODQ0Yy0yODJhYTNhMTVjYTMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ0ZWFtL01lLnBuZyIsImlhdCI6MTc1Mjc5MzkwOCwiZXhwIjoyODgxNzUyNzY1MTA4fQ.7FPMslEksnPcZcP2zapVCjTg27zYAXcmkfMFG0kN1f0" 
+  <img src="" 
        alt="Profile" width="100%" style="border-radius: 10px;" />
 </td>
     <td width="55%">
       <h2 align="left">👨🏻‍💻 About Me</h2>
       <p align="left">
-        I'm a passionate Full-Stack Engineer and AI/ML Enthusiast with a unique focus on computational biology and synthetic biology. As a <strong>Biological Science major</strong>, I work at the intersection of code and life science to design smarter systems for research, health, and diagnostics.
+        I am a passionate Full-Stack Developer with a keen interest in Artificial Intelligence. My journey in software development is driven by a desire to solve practical problems and create impactful, real-world applications. I thrive on turning complex challenges into elegant, automated solutions with a clean, intuitive user experience. My mission is to bridge the gap between powerful technology and everyday usability, creating tools that are not just functional, but a joy to use.
       </p>
       <p align="left">
         Currently engineering solutions in health, education, and productivity while diving deep into AI, cloud systems, and scalable tech. I'm hardcore on open-source — I build, not just contribute. KDE power user, Linux-native, building tech that runs lean and clean.
       </p>
       <div align="left">
-        <a href="https://linkedin.com/in/muhammad-adamu-aliyu" target="_blank">
+        <a href="https://linkedin.com/in/AbdulMaaji" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
-        <a href="https://twitter.com/the_tech_sudo" target="_blank">
+        <a href="https://twitter.com/abdul_maaji_" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
         </a>
-        <a href="mailto:muhammadadamualiyu33@gmail.com" target="_blank">
+        <a href="mailto:abdulmaaji360@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
         <a href="#" target="_blank">
