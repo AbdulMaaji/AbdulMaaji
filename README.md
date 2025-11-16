@@ -70,7 +70,7 @@ Instead of boring to-do lists, LifeQuests gives you fun, surprising, micro-chall
 Trigger → Action → Reward
         </p>
         <p align="center">
-          <strong>Tech Stack:</strong> HTML, CSS, TailwindCSS, JavaScript, React, Gemini API
+          <strong>Tech Stack:</strong> HTML, CSS, TypeScript Gemini API
         </p>
       </div>
     </td>
