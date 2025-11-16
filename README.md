@@ -22,6 +22,9 @@
       <h2 align="left">👨🏻‍💻 About Me</h2>
       <p align="left">
         I am a passionate Full-Stack Developer with a keen interest in Artificial Intelligence. My journey in software development is driven by a desire to solve practical problems and create impactful, real-world applications. I thrive on turning complex challenges into elegant, automated solutions with a clean, intuitive user experience. My mission is to bridge the gap between powerful technology and everyday usability, creating tools that are not just functional, but a joy to use.
+      </p><br><br><br>
+      <p>
+        I thrive on taking complex challenges and translating them into clean, intuitive interfaces powered by smart logic. My mission is to create tools that feel natural—where the tech fades into the background and the experience takes center stage. I’m especially excited about where AI meets everyday development, and I aim to contribute to projects that are both helpful and inspiring.
       </p>
       <div align="left">
         <a href="https://linkedin.com/in/AbdulMaaji" target="_blank">
