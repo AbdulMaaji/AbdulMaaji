@@ -335,7 +335,7 @@ Trigger → Action → Reward
 ![Night Owl](https://img.shields.io/badge/Coding_Hours-12AM--6AM-blueviolet?style=for-the-badge&logo=moon)
 
 <!-- Status badges -->
-![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-ff69b4?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Building_Amazing_Stuff-ff69b4?style=for-the-badge)
   
   <h3>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
