@@ -74,6 +74,20 @@ Trigger → Action → Reward
         </p>
       </div>
     </td>
+    <td width="50%">
+      <h3 align="center">Fast Eat</h3>
+      <div align="center">
+        <a href="https://github.com/AbdulMaaji/fastEat" target="_blank">
+          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="BioSeq Analyzer">
+        </a>
+        <p align="center">
+          Fast Eat is a smart restaurant web app built for Cusomers, Vendors, and Delivery Drivers. Customers can sign in, explore nearby vendors through an interactive discovery map, and place order easily. Vendors manage manus, receive orders, and assign deliveries to drivers. Drivers get real-time directions to customer locations, while customers can track their order live on the map from kitchen to doorstep.
+        </p>
+        <p align="center">
+          <strong>Tech Stack:</strong> HTML, CSS, TailwindCSS, JavaScript, React.js, Nest.js TypeScript, Google Map API Gemini API
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 
