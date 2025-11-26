@@ -75,7 +75,7 @@ Trigger → Action → Reward
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Fast Eat</h3>
+      <h3 align="center">🍱 Fast Eat</h3>
       <div align="center">
         <a href="https://github.com/AbdulMaaji/fastEat" target="_blank">
           <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="BioSeq Analyzer">
