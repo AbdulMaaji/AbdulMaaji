@@ -101,7 +101,7 @@ Trigger → Action → Reward
 </div>
 <!-- Holopin Badges -->
 <p align="center">
-  <a href="https://holopin.io/@adams404" target="_blank">
+  <a href="https://holopin.io/@AbdulMaaji" target="_blank">
     <img src="https://holopin.me/AbdulMaaji" alt="An image of @AbdulMaaji's Holopin badges, which is a link to view their full Holopin profile" />
   </a>
 </p>
