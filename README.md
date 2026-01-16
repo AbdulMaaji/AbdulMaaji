@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Modern Animated Header with Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=ABDULMUMINI%20MUHAMMAD%20BELLO&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=ABDULMUMINI%20MUHAMMAD%20BELLO&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="99%" />
 
   <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
