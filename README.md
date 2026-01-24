@@ -56,25 +56,6 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💫 LifeGuest AI</h3>
-      <div align="center">
-        <a href="https://github.com/AbdulMaaji/lifeguest" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="BioSeq Analyzer">
-        </a>
-        <p align="center">
-          LifeQuests is a gamified AI app that transforms your everyday life into a real-world RPG (role-playing game).
-Using Gemini, the app generates personalized daily quests based on your mood, energy level, goals, and time availability.
-
-Instead of boring to-do lists, LifeQuests gives you fun, surprising, micro-challenges that create a dopamine loop:
-
-Trigger → Action → Reward
-        </p>
-        <p align="center">
-          <strong>Tech Stack:</strong> HTML, CSS, TailwindCSS, JavaScript, React, TypeScript, Gemini API
-        </p>
-      </div>
-    </td>
-    <td width="50%">
       <h3 align="center">🍱 Fast Eat</h3>
       <div align="center">
         <a href="https://github.com/AbdulMaaji/fastEat" target="_blank">
