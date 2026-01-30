@@ -16,7 +16,7 @@
   <tr>
    <td width="45%" align="center">
   <img src="https://ecgmekwqzdlmsxtddsco.supabase.co/storage/v1/object/sign/images/me.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lMjIzMmMwYS04MTEzLTQ0YmEtODk3Ni1jNmMwNzBiOGRlOTIiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvbWUuanBnIiwiaWF0IjoxNzYzMjY0Mjc0LCJleHAiOjE3OTQ4MDAyNzR9.Nltu3AVaXx96xKCt3KfFxWp1hKWaB639KQZCEg9iOyQ" 
-       alt="Profile" width="100%" style="border-radius: 12px;" />
+       alt="Profile" width="100%" style="border-radius: 15px;" />
 </td>
     <td width="55%">
       <h2 align="left">👨🏻‍💻 About Me</h2>
