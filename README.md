@@ -337,7 +337,7 @@
   
   <h3>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    "Connecting code to real-world impact. Translating ideas into reality."
+    "Connecting code to real-world impact. Translating ideas into digital reality."
   </h3>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%"/>
