@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Modern Animated Header with Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=ABDULMUMINI%20MUHAMMAD%20BELLO&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="99%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=190&section=header&text=ABDULMUMINI%20MUHAMMAD%20BELLO&desc=Full-Stack%20Engineer%20|%20AI/ML%20Enthusiast%20&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
  
   <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
   </a>
   
   <!-- Subtle Divider nahhhh -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="99%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- Modern Profile Card -->
@@ -16,7 +16,7 @@
   <tr>
    <td width="45%" align="center">
   <img src="https://ecgmekwqzdlmsxtddsco.supabase.co/storage/v1/object/sign/images/me.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lMjIzMmMwYS04MTEzLTQ0YmEtODk3Ni1jNmMwNzBiOGRlOTIiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvbWUuanBnIiwiaWF0IjoxNzYzMjY0Mjc0LCJleHAiOjE3OTQ4MDAyNzR9.Nltu3AVaXx96xKCt3KfFxWp1hKWaB639KQZCEg9iOyQ" 
-       alt="Profile" width="100%" style="border-radius: 16px;" />
+       alt="Profile" width="100%" style="border-radius: 14px;" />
 </td>
     <td width="55%">
       <h2 align="left">👨🏻‍💻 About Me</h2>
